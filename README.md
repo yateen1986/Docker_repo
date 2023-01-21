@@ -1,4 +1,4 @@
-# Docker 101 Tutorial
+# Yateen Docker 101 Tutorial
 
 > :warning: **This project is archived.** The official "Getting Started" guide can be found at [docker/getting-started](https://github.com/docker/getting-started).
 
